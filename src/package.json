@@ -1,0 +1,23 @@
+{
+  "name": "expresstutorial",
+  "version": "1.0.0",
+  "description": "dfdfdffdfdfdf",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GENIOUS123/expresstutorial.git"
+  },
+  "author": "jitu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GENIOUS123/expresstutorial/issues"
+  },
+  "homepage": "https://github.com/GENIOUS123/expresstutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2"
+  }
+}
